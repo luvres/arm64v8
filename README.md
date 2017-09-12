@@ -14,6 +14,6 @@ sudo rm ROOTFS/ -fR
 ```
 
 ```
-docker build -t izone/arm64v8:xenial-slim .
+docker build -t izone/arm64v8:xenial-slim ./xenial-slim/
 ```
 
